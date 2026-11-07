@@ -120,7 +120,7 @@ app/src/main/java/com/example/myzum/
 ### Run
 
 ```bash
-git clone https://github.com/Fyced/myzum-android.git
+git clone https://github.com/Fyced/myzum.git
 ```
 
 1. Open the project in Android Studio.
