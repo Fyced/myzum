@@ -1,0 +1,22 @@
+# Gradle / build
+.gradle/
+build/
+/captures
+.externalNativeBuild
+.cxx
+.kotlin/
+
+# Android Studio
+*.iml
+.idea/
+
+# Configuración local (contiene rutas de tu PC)
+local.properties
+
+# Cosas que no quiero subir
+.artifacts/
+app/google-services.json
+
+# Sistema
+.DS_Store
+Thumbs.db

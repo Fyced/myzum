@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myzum</string>
+    <string name="action_dataphone">Dataphone</string>
+    <string name="action_pay">Pay</string>
+    <string name="action_clear">Clear</string>
+    <string name="dataphone_title">Dataphone Emulator</string>
+</resources>
